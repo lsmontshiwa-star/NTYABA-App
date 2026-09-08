@@ -1,0 +1,7 @@
+{
+  "name": "Now That You're Born Again",
+  "description": "A 30-day devotional journey transforming the book 'Now That You Are Born Again' into daily lessons with verbatim fidelity, fluid ambient gradients, and daily reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
